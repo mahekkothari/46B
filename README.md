@@ -1,2 +1,2 @@
 # CS46B
-## labs, Hws, etc
+## labs, hws, etc
